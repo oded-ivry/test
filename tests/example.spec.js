@@ -73,3 +73,7 @@ test('Approval-flow', async ({ page }) => {
 
 test('Afsdpproval-flow', async ({ page }) => {
 });
+
+/* 1. find a way to break the big test into a few smaller tests that test spesific simple tasks instead of the full approval flow  
+   2. add expects assertions into the validation functions or in the main test 
+*/
